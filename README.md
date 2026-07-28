@@ -5,4 +5,4 @@ An automated OMR answer sheet evaluation system built with Python, OpenCV, and S
 ## Features
 - Realtime OMR scanning via Webcam or Image Upload
 - Automated mark calculation for 50 MCQ questions
-- Built for Pinnawala Central College Physics Papers
+- Built for Teachers
