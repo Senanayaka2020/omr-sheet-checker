@@ -5,13 +5,13 @@ from omr_engine import evaluate_sheet
 
 # Page Configuration
 st.set_page_config(
-    page_title="Pinnawala CC - OMR Evaluator",
+    page_title="MCQ - Evaluator",
     page_icon="📊",
     layout="wide"
 )
 
 st.title("📊 Automatic MCQ Answer Sheet Evaluator")
-st.subheader("Kg/ Pinnawala Central College - Physics Department")
+#st.subheader("Kg/ Pinnawala Central College - Physics Department")
 st.markdown("---")
 
 # Session State for Saving Master Key
