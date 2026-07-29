@@ -105,4 +105,4 @@ else:
                 st.markdown("---")
 
 st.markdown("---")
-st.caption("Pinnawala Central College - Physics Department OMR Automation System")
+st.caption("OMR Automation System")
